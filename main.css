@@ -1,0 +1,89 @@
+p {
+	font-family: "Verdana", "Helvetica", "Ariel", sans-serif;
+	color: black;
+	text-indent: 1.0em;
+}
+
+/* The layout of the iSilo document differs on Series 60 devices.
+   To round this add margin-top and margin-bottom parameters to 
+   the p style and set these to 0.3em.
+   These are not required for HTML or Palm. */
+
+p.centre {
+	font-style: italic;
+	text-align: center;
+	text-indent: 0.0em;
+}
+
+p.right {
+	font-style: italic;
+	text-align: right;
+	text-indent: 0.0em;
+}
+
+
+p.quote {
+	font-family: "Georgia", "Palatino", "Times New Roman", serif;
+	text-indent: 0.0em;
+}
+
+h2 {
+	font-family: "Verdana", "Helvetica", "Ariel", sans-serif;
+	font-weight: bold;
+	color: red;
+	text-align: center;
+	font-size: 120%;
+}
+
+h3 {
+	font-family: "Verdana", "Helvetica", "Ariel", sans-serif;
+	font-weight: bold;
+	color: blue;
+	text-align: center;
+	font-size: 110%;
+	text-indent: 1.0em;
+}
+
+h3.inset {
+	text-align: left;
+	margin-left: 5%;
+	font-size: 110%;
+	text-indent: 5em;
+}
+
+h3.left {
+	text-align: left;
+	margin-left: 5%;
+	font-size: 110%;
+}
+
+h4 {
+	font-family: "Verdana", "Helvetica", "Ariel", sans-serif;
+	font-style: italic;
+	color: black;
+	text-align: center;
+	font-size: 100%;
+}
+
+A:link {
+	text-decoration: none;
+	color: #0000cc;
+	background-color: transparent;
+}
+
+a {
+	color:#000;
+	text-decoration:none;
+	font-family: "Verdana", "Helvetica", "Ariel", sans-serif;
+	}
+	a:link {color:#000;}
+	a:visited {color:#c0c;}
+	a:hover {background-color:#ddd;
+}
+
+li {
+	font-family: "Verdana", "Helvetica", "Ariel", sans-serif;
+	color: black;
+	text-indent: 1.0em;
+	font-size: 100%;
+}

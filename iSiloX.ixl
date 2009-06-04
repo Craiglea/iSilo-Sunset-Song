@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<iSiloXDocumentList>
+  <iSiloXDocument>
+    <Source>
+      <Sources>
+        <Path>y:\Documents\iSilo\Sunset Song\Sunset Song.html</Path>
+        <Path>y:\Documents\iSilo\Sunset Song\note.html</Path>
+        <Path>y:\Documents\iSilo\Sunset Song\Unfurrowed Field 1.html</Path>
+        <Path>y:\Documents\iSilo\Sunset Song\Ploughing.html</Path>
+        <Path>y:\Documents\iSilo\Sunset Song\Drilling.html</Path>
+        <Path>y:\Documents\iSilo\Sunset Song\Seed Time.html</Path>
+        <Path>y:\Documents\iSilo\Sunset Song\Harvest.html</Path>
+        <Path>y:\Documents\iSilo\Sunset Song\Unforrowed Field 2.html</Path>
+        <Path>y:\Documents\iSilo\Sunset Song\lgg.html</Path>
+        <Path>y:\Documents\iSilo\Sunset Song\note2.html</Path>
+      </Sources>
+      <CharSet>UTF-8</CharSet>
+    </Source>
+    <Destination>
+      <Title>Sunset Song</Title>
+      <Files>
+        <Path>y:\Documents\iSilo\Sunset Song\Sunset Song.pdb</Path>
+      </Files>
+    </Destination>
+    <LinkOptions>
+      <MaximumDepth value="3"/>
+      <FollowOffsite value="no"/>
+      <MaximumOffsiteDepth value="1"/>
+      <SubDirOnly value="no"/>
+      <UnresolvedDetail value="include"/>
+    </LinkOptions>
+    <ImageOptions>
+      <AltText value="exclude"/>
+      <Images value="include"/>
+      <ResizeLargeImages value="yes"/>
+      <ImproveContrast value="yes"/>
+      <Dither value="yes"/>
+      <MaximumWidth value="304"/>
+      <MaximumHeight value="264"/>
+      <Compress value="yes"/>
+      <BitDepth1 value="exclude"/>
+      <BitDepth2 value="exclude"/>
+      <BitDepth4 value="exclude"/>
+      <BitDepth8 value="exclude"/>
+      <BitDepth16 value="include"/>
+      <LossyLevel value="none"/>
+      <LossyQuality value="75"/>
+    </ImageOptions>
+    <TableOptions>
+      <IgnoreTables value="no"/>
+      <AddSeparators value="no"/>
+      <UseMinimumDepth value="no"/>
+      <MinimumDepth value="1"/>
+      <UseMaximumBottomReach value="no"/>
+      <MaximumBottomReach value="1"/>
+      <UnfoldFullPageTables value="no"/>
+      <IgnorePixelWidths value="no"/>
+    </TableOptions>
+    <ColorOptions>
+      <BackgroundColors value="keep"/>
+      <TextColors value="keep"/>
+    </ColorOptions>
+    <MarginOptions>
+      <LeftRightMargins value="keep"/>
+      <LeftRightPadding value="keep"/>
+    </MarginOptions>
+    <SecurityOptions>
+      <Convert value="allow"/>
+      <CopyBeam value="allow"/>
+      <CopyAndPaste value="allow"/>
+      <Modify value="allow"/>
+      <Print value="allow"/>
+    </SecurityOptions>
+    <TextOptions>
+      <PreUseMonospaceFont value="no"/>
+      <PreSingleLineBreaks value="KeepAll"/>
+      <ProcessLineBreaks value="yes"/>
+      <ConvertSingleLineBreaks value="no"/>
+      <Preformatted value="no"/>
+      <UseMonospaceFont value="no"/>
+      <MonospaceFontSize value="10"/>
+      <TabStopWidth value="8"/>
+    </TextOptions>
+    <DocumentOptions>
+      <PageBounds value="soft"/>
+      <UseDefaultCategory value="no"/>
+      <HomePageNumber value="1"/>
+      <OpenHomePageOnDateChange value="no"/>
+      <CharSet>UTF-8</CharSet>
+    </DocumentOptions>
+    <Bookmarks>
+      <Document>
+        <UseFile value="yes"/>
+        <Path>y:\Documents\iSilo\Sunset Song\bmarks.html</Path>
+        <UseNamedAnchors value="no"/>
+        <NamedAnchorType value="all"/>
+        <UseIncludeFilter value="no"/>
+        <UseExcludeFilter value="no"/>
+      </Document>
+    </Bookmarks>
+    <LastConversion>
+      <Date>2007/09/28 22:10:22</Date>
+      <Size value="374983"/>
+      <Status>Successful conversion</Status>
+    </LastConversion>
+    <Messages>
+      <Title>Sunset Song</Title>
+      <Version>0.1</Version>
+      <Notes>Corrections to this document are most welcome. Please email them to me using the address given in the publisher contact details.</Notes>
+      <AuthorName>Lewis Grassic Gibbon</AuthorName>
+      <PublisherName>Steve Hodgson</PublisherName>
+      <PublisherContact>steve@shodgson.org.uk</PublisherContact>
+    </Messages>
+    <Targets>
+      <Export value="none"/>
+      <Lookup value="ByName"/>
+      <GenerateMapFile value="no"/>
+      <MapFile>Zen :Users:steve:Holmes:targets.map</MapFile>
+    </Targets>
+  </iSiloXDocument>
+</iSiloXDocumentList>
